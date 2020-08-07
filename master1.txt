@@ -1,0 +1,3 @@
+Hello in second commit
+%date% 
+%time%
